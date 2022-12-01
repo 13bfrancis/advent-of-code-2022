@@ -1,0 +1,11 @@
+{
+  "name": "advent-of-code-2022",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/13bfrancis/advent-of-code-2022.git",
+  "author": "13bfrancis <40218571+13bfrancis@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.11.10"
+  }
+}
