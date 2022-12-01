@@ -32,7 +32,7 @@ function getSums(elfs: number[][]) {
   const sums = getSums(elfs);
 
   // log answer for part 1
-  console.log("part 1", sums.sort((a, b) => a - b).slice(-1)[0]);
+  console.log("part 1", Math.max(...sums));
 
   // log answer for part 2
   console.log(
